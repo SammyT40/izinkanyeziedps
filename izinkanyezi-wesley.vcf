@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rabie;Wesley;;;
+FN:Wesley Rabie
+ORG:Izinkanyezi Enterprise Development and Professional Services (Pty) Ltd
+TITLE:Operations director
+TEL;TYPE=CELL,VOICE:+27651844238
+item1.TEL:+27843546307
+item1.X-ABLabel:WhatsApp
+EMAIL;TYPE=INTERNET,WORK:wesley@izinkanyeziedps.co.za
+URL:https://sammyt40.github.io/izinkanyeziedps/
+ADR;TYPE=WORK:;;;Pretoria;Gauteng;;South Africa
+END:VCARD

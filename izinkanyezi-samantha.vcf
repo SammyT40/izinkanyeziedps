@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rabie;Samantha;;;
+FN:Samantha Rabie
+ORG:Izinkanyezi Enterprise Development and Professional Services (Pty) Ltd
+TITLE:Managing director
+TEL;TYPE=CELL,VOICE:+27711278158
+item1.TEL:+27743013644
+item1.X-ABLabel:WhatsApp
+EMAIL;TYPE=INTERNET,WORK:Samantha@izinkanyeziedps.co.za
+URL:https://sammyt40.github.io/izinkanyeziedps/
+ADR;TYPE=WORK:;;;Pretoria;Gauteng;;South Africa
+END:VCARD
